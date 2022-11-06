@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @samuelegirardelli
-- 👀 I’m interested in quantitative finance 
+- 👀 I’m interested in quantitative finance and econometrics
 - 🌱 I’m currently learning volatily models (continuous and discrete)
 - 📫 How to reach me: samuele.girardelli98@gmail.com
 
